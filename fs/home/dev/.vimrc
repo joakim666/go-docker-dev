@@ -33,6 +33,7 @@ set cursorline
 set scrolloff=999
 set encoding=utf-8
 colorscheme molokai
+let mapleader = ","
 
 " plugin customizations
 " neocomplete
